@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">반올림</string>
+    <string name="trans_hint">번역할 문장을 입력해주세요</string>
+    <string name="trans_txt">번역</string>
+</resources>

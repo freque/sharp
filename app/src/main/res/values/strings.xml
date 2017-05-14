@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sharp</string>
+    <string name="trans_hint">번역할 문장을 입력해주세요</string>
+    <string name="trans_txt">Translate</string>
+</resources>
